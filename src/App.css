@@ -41,9 +41,9 @@
   cursor: pointer;
 }
 .blur {
-  background: rgba(253, 120, 43, 0.69);
+  /* background: rgba(253, 120, 43, 0.69); */
   position: absolute;
-  border-radius: 50%;
+  /* border-radius: 50%;
   filter: blur(190px);
-  z-index: 0;
+  z-index: 0; */
 }
