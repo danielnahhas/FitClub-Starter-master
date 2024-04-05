@@ -33,10 +33,11 @@ const Hero = () => {
           </div>
           <div>
             <span>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas,
-              animi id! Natus rem ipsam nesciunt ipsum provident nemo temporibus
-              dolor. Nostrum et perspiciatis dicta aliquam rem temporibus
-              fugiat. Id, consequatur?
+              Get in shape with personalized training! As a personal trainer,
+              I'll help you achieve your fitness goals through tailored workouts
+              and expert guidance. Whether you want to build muscle or lose
+              weight, let's work together to transform your body and boost your
+              confidence.
             </span>
           </div>
         </div>
@@ -59,7 +60,7 @@ const Hero = () => {
             <button className="btn">Get Started</button>
           </a>
           <a href="https://wa.me/+9613940595" target="_blank" rel="noreferrer">
-          <button className="btn">Learn More</button>
+            <button className="btn">Learn More</button>
           </a>
         </div>
       </div>
