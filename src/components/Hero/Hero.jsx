@@ -59,9 +59,6 @@ const Hero = () => {
           <a href="https://wa.me/+9613940595" target="_blank" rel="noreferrer">
             <button className="btn">Get Started</button>
           </a>
-          <a href="https://wa.me/+9613940595" target="_blank" rel="noreferrer">
-            <button className="btn">Learn More</button>
-          </a>
         </div>
       </div>
       <div className="right-h">
