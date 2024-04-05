@@ -55,16 +55,16 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-buttons">
-          <a href="https://wa.me/+9613898007" target="_blank" rel="noreferrer">
+          <a href="https://wa.me/+9613940595" target="_blank" rel="noreferrer">
             <button className="btn">Get Started</button>
           </a>
-          <a href="https://wa.me/+9613898007" target="_blank" rel="noreferrer">
+          <a href="https://wa.me/+9613940595" target="_blank" rel="noreferrer">
           <button className="btn">Learn More</button>
           </a>
         </div>
       </div>
       <div className="right-h">
-        <a href="https://wa.me/+9613898007" target="_blank" rel="noreferrer">
+        <a href="https://wa.me/+9613940595" target="_blank" rel="noreferrer">
           <button className="btn">Chat Now</button>
         </a>
 
