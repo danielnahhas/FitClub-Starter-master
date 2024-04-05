@@ -38,7 +38,7 @@
     filter: blur(200px);
     background: rgb(255,115,0);
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
     .social-links > a {
         font-size: 2rem;
        

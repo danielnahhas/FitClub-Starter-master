@@ -161,7 +161,7 @@ border: 2px solid var(--orange);
     left: 0;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 768px) {
     .hero{
         flex-direction: column;
     }
