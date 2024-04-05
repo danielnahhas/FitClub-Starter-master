@@ -80,7 +80,10 @@
 .hero-buttons{
     display: flex;
     gap: 1rem;
+}
+.hero-buttons a{
     font-weight: normal;
+    text-decoration: none;
 }
 .hero-buttons :nth-child(1){
 color: white;
